@@ -18,7 +18,7 @@
   "dependencies": {
     "@extension/shared": "workspace:*",
     "@extension/storage": "workspace:*",
-    "@langchain/anthropic": "^0.3.12",
+    "@langchain/anthropic": "^1.0.0",
     "@langchain/core": "^0.3.37",
     "@langchain/google-genai": "0.1.11",
     "@langchain/ollama": "^0.2.0",
